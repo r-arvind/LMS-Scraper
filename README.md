@@ -2,7 +2,7 @@
 
 For those of you wondering what LMS is, my college has a portal called Learning Management System where you can find all the assignments that you have to submit, study materials, lecture presentations of your Courses.
 
-You can check out the LMS here: ![IIIT B-LMS](https://lms.iiitb.ac.in)
+You can check out the LMS here: [IIIT B-LMS](https://lms.iiitb.ac.in)
 
 What this Scraper does is it logs into your account, scrapes all info about the assignments that has to be Submitted.
 
