@@ -19,3 +19,9 @@ What this Scraper does is it logs into your account, scrapes all info about the 
 Enter these info in their respective places. Username and Login should be entered at the place marked '*******'. Enter the Course ID's inside the list 'Subject'(around line 45).
 
 After you run the script, a text file called updates.txt will be created where you can find all the updates. Whenever the script is run, the existing updates.txt is deleted and a new one is created for the new data.
+
+## Contributors
+
+### Ronak Doshi
+* [https://github.com/ronak66](https://github.com/ronak66)
+* [https://ronak66.github.io](https://ronak66.github.io)
